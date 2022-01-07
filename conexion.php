@@ -6,7 +6,7 @@ class Conexion
 	private $host = "localhost";
 	private $user = "joseluis";
 	private $password = "adminroot";
-	private $database = "estLuna";
+	private $database = "agenda";
 	private $charset = "utf8";
 
 	function __construct()
